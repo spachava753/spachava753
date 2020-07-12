@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **spachava753/spachava753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, Golang, Microservices, Web Development, Kubernetes, AWS, and just software in general!
 - 📫 How to reach me: spachava753@gmail.com
 - 😄 Pronouns: He | Him
--->
