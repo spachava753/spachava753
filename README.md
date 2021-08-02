@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**spachava753/spachava753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Golang, Kubernetes, and Machine Learning (more specifically, NLP)
