@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Golang, Kubernetes, and Machine Learning (more specifically, NLP)
 - 🌱 I’m currently learning all about classical and deep machine learning.
 - 🤔 I’m looking for help with machine learning
