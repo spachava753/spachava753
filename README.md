@@ -7,4 +7,4 @@
 - 📫 How to reach me: spachava753@gmail.com
 - 😄 Pronouns: He | Him
 
-<a href="https://app.daily.dev/spachava"><img src="https://api.daily.dev/devcards/b8b6ab1d0ee1451e921970121d32a600.png?r=kb6" width="400" alt="Shashank Pachava's Dev Card"/></a>
+<a href="https://app.daily.dev/spachava"><img src="https://api.daily.dev/devcards/b8b6ab1d0ee1451e921970121d32a600.png?r=fga" width="400" alt="Shashank Pachava's Dev Card"/></a>
